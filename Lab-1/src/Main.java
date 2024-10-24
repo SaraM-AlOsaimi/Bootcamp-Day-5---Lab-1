@@ -100,7 +100,7 @@ Reverse word: fasd*/
 
 //        System.out.println("Enter a word :");
 //        String word = in.nextLine();
-         // first way using for loop :
+        
 //        String reverse = " ";
 //
 //        for (int i = word.length()-1; i >=0; i--) {
@@ -109,9 +109,6 @@ Reverse word: fasd*/
 //
 //        System.out.println("Reverse word : " + reverse);
 
-        // second way using StringBuilder :
-//        StringBuilder s = new StringBuilder(word);
-//         System.out.println(" Reverse word : " + s.reverse());
 
 //-----------------------------------------------------------------------------------
         /* 7 - Java program to check whether the given number is even or odd */
@@ -123,8 +120,7 @@ Reverse word: fasd*/
 //            System.out.println( num + " Is even number");
 //        } else System.out.println(num + " Is odd number");
 
-//        String evenOdd = (num%2==0)? "even" : "odd";
-//        System.out.println(num + " is " + evenOdd);
+
 //-----------------------------------------------------------------------------------
         /* 8.Java program to convert the temperature in Centigrade to Fahrenheit */
 
